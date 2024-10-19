@@ -34,11 +34,3 @@
 	const userid = "<%=loginDto.getUserid()%>";
 </script>
 <%@ include file="footer.jsp" %>
-
-
-
-
-
-
-
-

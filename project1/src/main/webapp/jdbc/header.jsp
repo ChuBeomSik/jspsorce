@@ -51,10 +51,10 @@
           <a class="nav-link active" aria-current="page" href="session_remove.jsp">로그아웃</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="">비밀번호 수정</a>
+          <a class="nav-link" href="password.jsp">비밀번호 수정</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="">탈퇴</a>
+          <a class="nav-link" href="leave.jsp">탈퇴</a>
         </li>
       </ul>
       <% } %>
